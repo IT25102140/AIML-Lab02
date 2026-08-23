@@ -1,1 +1,54 @@
+1. Where does your favourite LLM rank currently?
+My favourite LLM is GPT-5.6 Sol (max) by OpenAI. According to the Artificial Analysis LLM Leaderboard, it currently has an Intelligence Index score of 61 and is tied for 4th place among the models shown.
 
+2. Try out at least two models that you haven't tried before.
+
+I selected two LLMs that I had not used before:
+Qwen
+GLM
+
+3. Run two prompts of your choice.
+
+I used the following two prompts with each model:
+
+Prompt 1:
+Explain overfitting in machine learning in a simple way for a university student.
+
+Prompt 2:
+Give me three useful ways generative AI can help a university student study more effectively.
+
+4. Submit the model, prompt and responses.
+
+Model 1 – Qwen
+
+Prompt 1:
+Explain overfitting in machine learning in a simple way for a university student.
+
+Response:
+Overfitting happens when a machine learning model learns the training data too closely, including unnecessary details and noise. Because of this, it performs very well on the training data but may perform poorly on new data that it has never seen before.
+
+Prompt 2:
+Give me three useful ways generative AI can help a university student study more effectively.
+
+Response:
+
+Generative AI can explain difficult topics using simpler language.
+It can generate practice questions and quizzes for revision.
+It can summarize long notes and help students identify important concepts.
+
+Model 2 GLM
+
+Prompt 1:
+Explain overfitting in machine learning in a simple way for a university student.
+
+Response:
+Overfitting occurs when a model memorizes the training data instead of learning the general patterns. This causes the model to have high accuracy on training data but lower accuracy when it is tested with new data.
+
+Prompt 2:
+Give me three useful ways generative AI can help a university student study more effectively.
+
+Response:
+
+It can act as a personal tutor and explain concepts step by step.
+It can create summaries, flashcards and revision questions.
+It can provide examples that make difficult subjects easier to understand.

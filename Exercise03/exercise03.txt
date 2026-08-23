@@ -1,1 +1,29 @@
+LLMs I used
 
+DeepSeek R1
+Qwen Thinking
+Grok DeepSearch
+Report
+
+I asked all three LLMs:
+
+“How can I use generative AI as a university student to learn Probability and Statistics, Database Management Systems, and Software Engineering?”
+
+The tools explained that generative AI can help me in different ways.
+
+For Probability and Statistics, AI can explain formulas in simple words, solve problems step by step, create practice questions, and explain mistakes.
+
+For Database Management Systems, AI can help me understand SQL queries, database design, normalization, ER diagrams, and give examples of CRUD operations.
+
+For Software Engineering, AI can explain concepts such as requirements, use case diagrams, software development models, testing, and also help me understand code.
+
+I also found that AI can create quizzes, summaries, examples, and revision questions, which can make studying easier and faster.
+
+
+My Reflection
+
+I found all three tools useful. DeepSeek R1 gave detailed explanations, Qwen Thinking explained concepts clearly, and Grok DeepSearch gave more detailed information by searching for relevant information.
+
+In my opinion, Grok DeepSearch produced the best results because the answers were detailed and included more useful information. However, I should still check important information instead of depending completely on AI.
+
+Use this after you actually try all three tools, and change the “best results” part if another tool performs better for you.

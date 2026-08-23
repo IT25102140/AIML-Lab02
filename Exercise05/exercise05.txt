@@ -1,1 +1,34 @@
 
+1-5. Hugging Face
+
+I created a Hugging Face account and explored the Spaces section. I selected an AI project, tested it, and generated an output. I also explored the Models section to learn more about available AI models.
+
+6-9. First Summarization
+
+I created a Google Colab notebook, changed the runtime to GPU, and ran the given summarization code.
+Result:
+The model summarized the long paragraph about Hugging Face into a shorter version.
+
+
+10-11. KoBART Summarization Model
+
+I tested the EbanLee/kobart-summary-v3 model using the provided code.
+Result:
+The model generated a shorter summary of the given text.
+
+
+12-13. My Selected Natural Language Model
+
+I selected:
+Model: distilbert-base-uncased-finetuned-sst-2-english
+This model can identify whether text has a positive or negative sentiment.
+from transformers import pipeline
+
+
+classifier = pipeline(
+    "sentiment-analysis",
+    model="distilbert-base-uncased-finetuned-sst-2-english"
+)
+
+result = classifier("I really enjoyed learning about artificial intelligence.")
+print(result)
