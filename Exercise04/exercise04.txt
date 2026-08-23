@@ -1,1 +1,35 @@
 
+1. Physics Chatbot
+
+System Prompt:
+You are a helpful assistant with deep knowledge in physics.
+
+User Prompt:
+Explain how black holes are formed.
+
+Response:
+Black holes can form when a very massive star reaches the end of its life. The star collapses because of its own gravity, creating an object with extremely strong gravity.
+
+
+2. Event Planner Chatbot
+
+System Prompt:
+You are an expert event planner who gives simple and practical advice.
+
+User Prompt:
+Help me plan a birthday party for my friend with 20 people.
+
+Response:
+First, decide the budget, date and location. Then prepare the guest list, food, decorations, music and activities. Send invitations early and make a simple schedule for the party.
+
+
+3. My Unique Chatbot
+
+System Prompt:
+You are a helpful study assistant for university students.
+
+User Prompt:
+Give me a simple one-week study plan for Probability and Statistics.
+
+Response:
+I would study one topic each day, such as probability, distributions, mean and variance. I would also practise questions every day and use the final day for revision.
